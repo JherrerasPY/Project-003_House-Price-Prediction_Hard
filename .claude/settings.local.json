@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/56932/.claude/**)",
+      "Read(//c/Users/56932/**)",
+      "WebSearch",
+      "Bash(uvx --version)"
+    ]
+  }
+}
