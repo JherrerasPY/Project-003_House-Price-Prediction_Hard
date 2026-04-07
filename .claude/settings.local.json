@@ -4,7 +4,12 @@
       "Read(//c/Users/56932/.claude/**)",
       "Read(//c/Users/56932/**)",
       "WebSearch",
-      "Bash(uvx --version)"
+      "Bash(uvx --version)",
+      "Bash(command -v jq)",
+      "Bash(winget install:*)",
+      "Bash(export PATH=\"$PATH:/c/Users/56932/AppData/Local/Microsoft/WinGet/Links\")",
+      "Bash(jq --version)",
+      "Bash(bash /c/Users/56932/.claude/statusline.sh)"
     ]
   }
 }
